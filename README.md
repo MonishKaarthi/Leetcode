@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/MonishKaarthi/Leetcode/tree/master/0290-word-pattern) |
+## Array
+|  |
+| ------- |
+| [1580-shuffle-the-array](https://github.com/MonishKaarthi/Leetcode/tree/master/1580-shuffle-the-array) |
 <!---LeetCode Topics End-->
