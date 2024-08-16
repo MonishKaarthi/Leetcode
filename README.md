@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/MonishKaarthi/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MonishKaarthi/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/MonishKaarthi/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MonishKaarthi/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
 | ------- |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/MonishKaarthi/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MonishKaarthi/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MonishKaarthi/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Matrix
+|  |
+| ------- |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/MonishKaarthi/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 <!---LeetCode Topics End-->
