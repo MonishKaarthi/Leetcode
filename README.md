@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MonishKaarthi/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MonishKaarthi/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/MonishKaarthi/Leetcode/tree/master/0290-word-pattern) |
 ## String
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MonishKaarthi/Leetcode/tree/master/0001-two-sum) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/MonishKaarthi/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MonishKaarthi/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/MonishKaarthi/Leetcode/tree/master/1580-shuffle-the-array) |
