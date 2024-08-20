@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MonishKaarthi/Leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MonishKaarthi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/MonishKaarthi/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/MonishKaarthi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/MonishKaarthi/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MonishKaarthi/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/MonishKaarthi/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MonishKaarthi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/MonishKaarthi/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 ## Binary Search
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MonishKaarthi/Leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MonishKaarthi/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
