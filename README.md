@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MonishKaarthi/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MonishKaarthi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MonishKaarthi/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/MonishKaarthi/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0238-product-of-array-except-self](https://github.com/MonishKaarthi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/MonishKaarthi/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MonishKaarthi/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/MonishKaarthi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MonishKaarthi/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/MonishKaarthi/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/MonishKaarthi/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 ## Binary Search
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MonishKaarthi/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/MonishKaarthi/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
