@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MonishKaarthi/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MonishKaarthi/Leetcode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/MonishKaarthi/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/MonishKaarthi/Leetcode/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/MonishKaarthi/Leetcode/tree/master/0290-word-pattern) |
 ## Array
